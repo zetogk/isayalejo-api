@@ -1,11 +1,3 @@
-/* fastify.listen(process.env.PORT, err => {
-  if (err) {
-    throw err
-  } else {
-    console.log('Running in the port ', process.env.PORT)
-  }
-})
- */
 const start = async () => {
     try {
   
